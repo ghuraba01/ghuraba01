@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghaarib01@gmail.com)](mailto:ghaarib01@gmail.com)
-[!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alisherianvar/)]
+[![LinkeIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alisherianvar/)](https://www.linkedin.com/in/alisherianvar/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
